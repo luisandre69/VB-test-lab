@@ -1,0 +1,12 @@
+Week: 40
+Predicted Time: 20
+Time of study each days so far
+Monday: 4
+Tuesday: 5
+Wendnesday: 1
+Thursday: 0
+Friday: 0
+Saturday: 0
+Sunday: 0
+
+Result: -10

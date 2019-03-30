@@ -1,0 +1,11 @@
+C:\Documents and Settings\magnojgandrade\Os meus documentos\Visual Studio 2008\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\magnojgandrade\Os meus documentos\Visual Studio 2008\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.Form2.resources
+C:\Documents and Settings\magnojgandrade\Os meus documentos\Visual Studio 2008\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.Resources.resources
+C:\Documents and Settings\magnojgandrade\Os meus documentos\Visual Studio 2008\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.vbproj.GenerateResource.Cache
+C:\Documents and Settings\magnojgandrade\Os meus documentos\Visual Studio 2008\Projects\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.exe
+C:\Documents and Settings\magnojgandrade\Os meus documentos\Visual Studio 2008\Projects\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.pdb
+C:\Documents and Settings\magnojgandrade\Os meus documentos\Visual Studio 2008\Projects\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.xml
+C:\Documents and Settings\magnojgandrade\Os meus documentos\Visual Studio 2008\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.exe
+C:\Documents and Settings\magnojgandrade\Os meus documentos\Visual Studio 2008\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.xml
+C:\Documents and Settings\magnojgandrade\Os meus documentos\Visual Studio 2008\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.pdb
+C:\Documents and Settings\magnojgandrade\Os meus documentos\Visual Studio 2008\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.Form1.resources

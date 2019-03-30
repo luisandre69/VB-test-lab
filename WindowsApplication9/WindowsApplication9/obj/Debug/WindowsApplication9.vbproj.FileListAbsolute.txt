@@ -1,0 +1,10 @@
+C:\Documents and Settings\magnojgandrade\Os meus documentos\Visual Studio 2008\Projects\WindowsApplication9\WindowsApplication9\bin\Debug\WindowsApplication9.exe
+C:\Documents and Settings\magnojgandrade\Os meus documentos\Visual Studio 2008\Projects\WindowsApplication9\WindowsApplication9\bin\Debug\WindowsApplication9.pdb
+C:\Documents and Settings\magnojgandrade\Os meus documentos\Visual Studio 2008\Projects\WindowsApplication9\WindowsApplication9\bin\Debug\WindowsApplication9.xml
+C:\Documents and Settings\magnojgandrade\Os meus documentos\Visual Studio 2008\Projects\WindowsApplication9\WindowsApplication9\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\magnojgandrade\Os meus documentos\Visual Studio 2008\Projects\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.Form1.resources
+C:\Documents and Settings\magnojgandrade\Os meus documentos\Visual Studio 2008\Projects\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.Resources.resources
+C:\Documents and Settings\magnojgandrade\Os meus documentos\Visual Studio 2008\Projects\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.vbproj.GenerateResource.Cache
+C:\Documents and Settings\magnojgandrade\Os meus documentos\Visual Studio 2008\Projects\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.exe
+C:\Documents and Settings\magnojgandrade\Os meus documentos\Visual Studio 2008\Projects\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.xml
+C:\Documents and Settings\magnojgandrade\Os meus documentos\Visual Studio 2008\Projects\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.pdb

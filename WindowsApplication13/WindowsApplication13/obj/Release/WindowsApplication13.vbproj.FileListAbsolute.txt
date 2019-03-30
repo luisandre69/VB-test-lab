@@ -1,0 +1,13 @@
+C:\Users\Andrade\Documents\Visual Studio 2008\Projects\WindowsApplication13\WindowsApplication13\bin\Release\pizza.mdf
+C:\Users\Andrade\Documents\Visual Studio 2008\Projects\WindowsApplication13\WindowsApplication13\bin\Release\pizza_log.ldf
+C:\Users\Andrade\Documents\Visual Studio 2008\Projects\WindowsApplication13\WindowsApplication13\bin\Release\WindowsApplication13.exe
+C:\Users\Andrade\Documents\Visual Studio 2008\Projects\WindowsApplication13\WindowsApplication13\bin\Release\WindowsApplication13.pdb
+C:\Users\Andrade\Documents\Visual Studio 2008\Projects\WindowsApplication13\WindowsApplication13\bin\Release\WindowsApplication13.xml
+C:\Users\Andrade\Documents\Visual Studio 2008\Projects\WindowsApplication13\WindowsApplication13\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Andrade\Documents\Visual Studio 2008\Projects\WindowsApplication13\WindowsApplication13\obj\Release\WindowsApplication13.Form1.resources
+C:\Users\Andrade\Documents\Visual Studio 2008\Projects\WindowsApplication13\WindowsApplication13\obj\Release\WindowsApplication13.Resources.resources
+C:\Users\Andrade\Documents\Visual Studio 2008\Projects\WindowsApplication13\WindowsApplication13\obj\Release\WindowsApplication13.pedidos.resources
+C:\Users\Andrade\Documents\Visual Studio 2008\Projects\WindowsApplication13\WindowsApplication13\obj\Release\WindowsApplication13.vbproj.GenerateResource.Cache
+C:\Users\Andrade\Documents\Visual Studio 2008\Projects\WindowsApplication13\WindowsApplication13\obj\Release\WindowsApplication13.exe
+C:\Users\Andrade\Documents\Visual Studio 2008\Projects\WindowsApplication13\WindowsApplication13\obj\Release\WindowsApplication13.xml
+C:\Users\Andrade\Documents\Visual Studio 2008\Projects\WindowsApplication13\WindowsApplication13\obj\Release\WindowsApplication13.pdb

@@ -1,0 +1,19 @@
+C:\Documents and Settings\magnojgandrade\Os meus documentos\Visual Studio 2008\Projects\1ºtestebp\1ºtestebp\bin\Debug\1ºtestebp.exe
+C:\Documents and Settings\magnojgandrade\Os meus documentos\Visual Studio 2008\Projects\1ºtestebp\1ºtestebp\bin\Debug\1ºtestebp.pdb
+C:\Documents and Settings\magnojgandrade\Os meus documentos\Visual Studio 2008\Projects\1ºtestebp\1ºtestebp\bin\Debug\1ºtestebp.xml
+C:\Documents and Settings\magnojgandrade\Os meus documentos\Visual Studio 2008\Projects\1ºtestebp\1ºtestebp\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\magnojgandrade\Os meus documentos\Visual Studio 2008\Projects\1ºtestebp\1ºtestebp\obj\Debug\_1ºtestebp.Form1.resources
+C:\Documents and Settings\magnojgandrade\Os meus documentos\Visual Studio 2008\Projects\1ºtestebp\1ºtestebp\obj\Debug\_1ºtestebp.Resources.resources
+C:\Documents and Settings\magnojgandrade\Os meus documentos\Visual Studio 2008\Projects\1ºtestebp\1ºtestebp\obj\Debug\1ºtestebp.vbproj.GenerateResource.Cache
+C:\Documents and Settings\magnojgandrade\Os meus documentos\Visual Studio 2008\Projects\1ºtestebp\1ºtestebp\obj\Debug\1ºtestebp.exe
+C:\Documents and Settings\magnojgandrade\Os meus documentos\Visual Studio 2008\Projects\1ºtestebp\1ºtestebp\obj\Debug\1ºtestebp.xml
+C:\Documents and Settings\magnojgandrade\Os meus documentos\Visual Studio 2008\Projects\1ºtestebp\1ºtestebp\obj\Debug\1ºtestebp.pdb
+C:\Users\LUIS\Desktop\Projects\1ºtestebp\1ºtestebp\obj\Debug\1ºtestebp.exe
+C:\Users\LUIS\Desktop\Projects\1ºtestebp\1ºtestebp\obj\Debug\1ºtestebp.xml
+C:\Users\LUIS\Desktop\Projects\1ºtestebp\1ºtestebp\obj\Debug\1ºtestebp.pdb
+C:\Users\LUIS\Desktop\Projects\1ºtestebp\1ºtestebp\bin\Debug\1ºtestebp.exe
+C:\Users\LUIS\Desktop\Projects\1ºtestebp\1ºtestebp\bin\Debug\1ºtestebp.pdb
+C:\Users\LUIS\Desktop\Projects\1ºtestebp\1ºtestebp\bin\Debug\1ºtestebp.xml
+C:\Users\LUIS\Desktop\Projects\1ºtestebp\1ºtestebp\obj\Debug\_1ºtestebp.Form1.resources
+C:\Users\LUIS\Desktop\Projects\1ºtestebp\1ºtestebp\obj\Debug\_1ºtestebp.Resources.resources
+C:\Users\LUIS\Desktop\Projects\1ºtestebp\1ºtestebp\obj\Debug\1ºtestebp.vbproj.GenerateResource.Cache

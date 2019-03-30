@@ -1,0 +1,30 @@
+C:\Users\Andrade\Documents\Visual Studio 2008\Projects\WindowsApplication13\WindowsApplication13\obj\Debug\WindowsApplication13.exe
+C:\Users\Andrade\Documents\Visual Studio 2008\Projects\WindowsApplication13\WindowsApplication13\obj\Debug\WindowsApplication13.xml
+C:\Users\Andrade\Documents\Visual Studio 2008\Projects\WindowsApplication13\WindowsApplication13\obj\Debug\WindowsApplication13.pdb
+C:\Users\Andrade\Documents\Visual Studio 2008\Projects\WindowsApplication13\WindowsApplication13\bin\Debug\WindowsApplication13.exe
+C:\Users\Andrade\Documents\Visual Studio 2008\Projects\WindowsApplication13\WindowsApplication13\bin\Debug\WindowsApplication13.pdb
+C:\Users\Andrade\Documents\Visual Studio 2008\Projects\WindowsApplication13\WindowsApplication13\bin\Debug\WindowsApplication13.xml
+C:\Users\Andrade\Documents\Visual Studio 2008\Projects\WindowsApplication13\WindowsApplication13\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Andrade\Documents\Visual Studio 2008\Projects\WindowsApplication13\WindowsApplication13\obj\Debug\WindowsApplication13.Form1.resources
+C:\Users\Andrade\Documents\Visual Studio 2008\Projects\WindowsApplication13\WindowsApplication13\obj\Debug\WindowsApplication13.Resources.resources
+C:\Users\Andrade\Documents\Visual Studio 2008\Projects\WindowsApplication13\WindowsApplication13\obj\Debug\WindowsApplication13.vbproj.GenerateResource.Cache
+C:\Users\Andrade\Documents\Visual Studio 2008\Projects\WindowsApplication13\WindowsApplication13\obj\Debug\WindowsApplication13.pedidos.resources
+C:\Users\Andrade\Documents\Visual Studio 2008\Projects\WindowsApplication13\WindowsApplication13\bin\Debug\pizza.mdf
+C:\Users\Andrade\Documents\Visual Studio 2008\Projects\WindowsApplication13\WindowsApplication13\bin\Debug\pizza_log.ldf
+C:\Documents and Settings\magnojgandrade\Os meus documentos\Visual Studio 2008\Projects\WindowsApplication13\WindowsApplication13\obj\Debug\WindowsApplication13.exe
+C:\Documents and Settings\magnojgandrade\Os meus documentos\Visual Studio 2008\Projects\WindowsApplication13\WindowsApplication13\obj\Debug\WindowsApplication13.xml
+C:\Documents and Settings\magnojgandrade\Os meus documentos\Visual Studio 2008\Projects\WindowsApplication13\WindowsApplication13\obj\Debug\WindowsApplication13.pdb
+C:\Documents and Settings\magnojgandrade\Os meus documentos\Visual Studio 2008\Projects\WindowsApplication13\WindowsApplication13\bin\Debug\pizza.mdf
+C:\Documents and Settings\magnojgandrade\Os meus documentos\Visual Studio 2008\Projects\WindowsApplication13\WindowsApplication13\bin\Debug\pizza_log.ldf
+C:\Documents and Settings\magnojgandrade\Os meus documentos\Visual Studio 2008\Projects\WindowsApplication13\WindowsApplication13\bin\Debug\WindowsApplication13.exe
+C:\Documents and Settings\magnojgandrade\Os meus documentos\Visual Studio 2008\Projects\WindowsApplication13\WindowsApplication13\bin\Debug\WindowsApplication13.pdb
+C:\Documents and Settings\magnojgandrade\Os meus documentos\Visual Studio 2008\Projects\WindowsApplication13\WindowsApplication13\bin\Debug\WindowsApplication13.xml
+C:\Documents and Settings\magnojgandrade\Os meus documentos\Visual Studio 2008\Projects\WindowsApplication13\WindowsApplication13\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\magnojgandrade\Os meus documentos\Visual Studio 2008\Projects\WindowsApplication13\WindowsApplication13\obj\Debug\WindowsApplication13.Form1.resources
+C:\Documents and Settings\magnojgandrade\Os meus documentos\Visual Studio 2008\Projects\WindowsApplication13\WindowsApplication13\obj\Debug\WindowsApplication13.Resources.resources
+C:\Documents and Settings\magnojgandrade\Os meus documentos\Visual Studio 2008\Projects\WindowsApplication13\WindowsApplication13\obj\Debug\WindowsApplication13.pedidos.resources
+C:\Documents and Settings\magnojgandrade\Os meus documentos\Visual Studio 2008\Projects\WindowsApplication13\WindowsApplication13\obj\Debug\WindowsApplication13.vbproj.GenerateResource.Cache
+C:\Documents and Settings\magnojgandrade\Os meus documentos\Visual Studio 2008\Projects\WindowsApplication13\WindowsApplication13\obj\Debug\WindowsApplication13.Clientes.resources
+I:\u2008-2009-2010\Projects\WindowsApplication13\WindowsApplication13\obj\Debug\WindowsApplication13.exe
+I:\u2008-2009-2010\Projects\WindowsApplication13\WindowsApplication13\obj\Debug\WindowsApplication13.xml
+I:\u2008-2009-2010\Projects\WindowsApplication13\WindowsApplication13\obj\Debug\WindowsApplication13.pdb
